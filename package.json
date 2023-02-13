@@ -4,8 +4,8 @@
     "packages/*"
   ],
   "scripts": {
-    "dev":"turbo run dev --parallel",
-    "build":"turbo run build"
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "homepage": "https://github.com/viniciusferreira7/design-system#readme",
   "devDependencies": {
     "turbo": "^1.7.0"
+  },
+  "dependencies": {
+    "phosphor-react": "^1.4.1"
   }
 }
