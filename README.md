@@ -1,10 +1,10 @@
 # Componentes
 
 - [X] Text 
-- [] Heading
+- [x] Heading
 - [X] Box
-- [] Button
-- [] TextInput
+- [X] Button
+- [X] TextInput
 - [] Textarea
 - [] Checkbox
 - [X] Avatar
