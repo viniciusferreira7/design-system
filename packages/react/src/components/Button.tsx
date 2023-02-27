@@ -71,7 +71,7 @@ export const Button = styled('button', {
       },
     },
 
-    sizes: {
+    size: {
       sm: {
         height: 38,
       },
@@ -84,7 +84,7 @@ export const Button = styled('button', {
 
   defaultVariants: {
     variant: 'primary',
-    sizes: 'md',
+    size: 'md',
   },
 })
 

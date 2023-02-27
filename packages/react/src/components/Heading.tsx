@@ -4,15 +4,17 @@ import { styled } from '../styles'
 export const Heading = styled('h2', {
   fontFamily: '$default',
   lineHeight: '$shorter',
+  color: '$white',
 
   variants: {
     size: {
       sm: { fontSize: '$xl' },
       md: { fontSize: '$2xl' },
       lg: { fontSize: '$4xl' },
-      '2xl': { fontSize: '5xl' },
-      '3xl': { fontSize: '6xl' },
-      '4xl': { fontSize: '7xl' },
+      xl: { fontSize: '$5xl' },
+      '2xl': { fontSize: '$6xl' },
+      '3xl': { fontSize: '$7xl' },
+      '4xl': { fontSize: '$8xl' },
     },
   },
 
