@@ -11,9 +11,10 @@
   },
   "keywords": [],
   "author": "Vinicius <viniciuferreira32@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@aquino-ui/tokens":"*",
+    "@aquino-ui/ts-config":"*",
     "tsup": "^6.7.0",
     "typescript": "^5.0.2"
   }
