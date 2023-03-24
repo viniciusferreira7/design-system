@@ -1,0 +1,20 @@
+{
+  "name": "@aquino-ui/react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types":"./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup src/index.ts --format esm,cjs --dts",
+    "dev": "tsup src/index.ts --format esm,cjs --dts --watch"
+  },
+  "keywords": [],
+  "author": "Vinicius <viniciuferreira32@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@aquino-ui/tokens":"*",
+    "tsup": "^6.7.0",
+    "typescript": "^5.0.2"
+  }
+}
