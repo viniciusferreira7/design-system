@@ -1,0 +1,3 @@
+{
+  "extends":"@aquino-ui/eslint-config"
+}
