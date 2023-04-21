@@ -25,9 +25,11 @@
     "vite": "^4.2.1"
   },
   "dependencies": {
+    "polished": "^4.2.2",
     "@aquino-ui/react":"*",
     "@aquino-ui/tokens":"*",
     "@aquino-ui/eslint-config":"*",
+    "@aquino-ui/ts-config":"*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
