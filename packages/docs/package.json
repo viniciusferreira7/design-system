@@ -26,6 +26,10 @@
   },
   "dependencies": {
     "phosphor-react": "^1.4.1",
+    "@aquino-ui/react":"*",
+    "@aquino-ui/tokens":"*",
+    "@aquino-ui/eslint-config":"*",
+    "@aquino-ui/ts-config":"*",
     "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
