@@ -2,7 +2,7 @@ import { Text, TextArea, TextAreaProps, Box } from '@aquino-ui/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {
-  title: 'Form/Text area',
+  title: 'Form/Text Area',
   component: TextArea,
   decorators: [
     (Story) => {
