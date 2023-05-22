@@ -21,13 +21,7 @@ export default {
 
 export const Primary: StoryObj = {
   args: {
-    placeholder: 'Type your user',
-  },
-}
-
-export const WithPrefix: StoryObj<TextAreaProps> = {
-  args: {
-    prefix: 'cal.com/',
+    placeholder: 'Type your description',
   },
 }
 

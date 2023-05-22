@@ -8,6 +8,14 @@ export default {
     currentStep: 1,
     size: 4,
   },
+  argTypes: {
+    currentStep: {
+      type: 'number',
+    },
+    size: {
+      type: 'number',
+    },
+  },
   decorators: [
     (Story) => {
       return (
