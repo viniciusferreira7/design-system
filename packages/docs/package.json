@@ -27,10 +27,10 @@
     "vite": "^4.2.1"
   },
   "dependencies": {
-    "@aquino-ui/react":"*",
-    "@aquino-ui/tokens":"*",
-    "@aquino-ui/eslint-config":"*",
-    "@aquino-ui/ts-config":"*",
+    "@aquino-ui/react": "*",
+    "@aquino-ui/tokens": "*",
+    "@aquino-ui/eslint-config": "*",
+    "@aquino-ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.12",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
