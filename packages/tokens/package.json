@@ -1,21 +1,21 @@
 {
   "name": "@aquino-ui/tokens",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
-  "types":"./dist/index.d.ts",
+  "types": "./dist/index.d.ts",
   "scripts": {
-    "build":"tsup src/index.ts --format esm,cjs --dts",
-    "dev":"tsup src/index.ts --format esm,cjs --dts --watch",
-    "lint":"eslint src/**/*.ts* --fix"
+    "build": "tsup src/index.ts --format esm,cjs --dts",
+    "dev": "tsup src/index.ts --format esm,cjs --dts --watch",
+    "lint": "eslint src/**/*.ts* --fix"
   },
   "keywords": [],
   "author": "Vinicius <viniciuferreira32@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@aquino-ui/ts-config":"*",
-    "@aquino-ui/eslint-config":"*",
+    "@aquino-ui/ts-config": "*",
+    "@aquino-ui/eslint-config": "*",
     "tsup": "^6.7.0",
     "typescript": "^5.0.2"
   }
