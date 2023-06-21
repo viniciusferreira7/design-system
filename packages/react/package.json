@@ -14,9 +14,7 @@
   "author": "Vinicius <viniciuferreira32@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@aquino-ui/eslint-config": "*",
-    "@aquino-ui/tokens": "*",
-    "@aquino-ui/ts-config": "*",
+
     "@types/react": "^18.0.30",
     "@types/react-dom": "^18.0.11",
     "react": "^18.2.0",
@@ -26,6 +24,7 @@
   "dependencies": {
     "@radix-ui/react-avatar": "^1.0.2",
     "@radix-ui/react-checkbox": "^1.0.3",
+    "@radix-ui/react-tooltip": "^1.0.6",
     "@stitches/react": "^1.2.8",
     "phosphor-react": "^1.4.1"
   }
