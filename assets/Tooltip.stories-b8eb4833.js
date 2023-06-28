@@ -1,0 +1,2 @@
+import{j as r}from"./jsx-runtime-fae7eb9d.js";import{e as t,B as i}from"./index-4e34e94a.js";import"./index-436df07e.js";import"./iframe-9bf39f49.js";import"./index-383c08a3.js";const c={title:"Data Display/Tooltip",component:t,decorators:[o=>r(i,{css:{color:"$white"},children:o()})]},l={args:{children:"Tooltip",description:"lorem ipsum dolor sit amet, consectetur adipiscing"}},n=["Primary"];export{l as Primary,n as __namedExportsOrder,c as default};
+//# sourceMappingURL=Tooltip.stories-b8eb4833.js.map

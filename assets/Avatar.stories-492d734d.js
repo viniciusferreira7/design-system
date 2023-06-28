@@ -1,0 +1,2 @@
+import{A as r}from"./index-4e34e94a.js";import"./index-436df07e.js";import"./iframe-9bf39f49.js";import"./index-383c08a3.js";import"./jsx-runtime-fae7eb9d.js";const c={title:"Data Display/Avatar",component:r,args:{src:"https://github.com/viniciusferreira7.png",alt:"Vinicius Ferreira"},argTypes:{src:{type:"string"}}},e={},p={args:{src:void 0}},m=["Primary","withFallback"];export{e as Primary,m as __namedExportsOrder,c as default,p as withFallback};
+//# sourceMappingURL=Avatar.stories-492d734d.js.map
