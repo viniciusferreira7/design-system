@@ -13,7 +13,7 @@ export default {
 
 export const Primary: StoryObj<TooltipProps> = {
   args: {
-    children: '21',
+    children: 'Tooltip',
     description: 'lorem ipsum dolor sit amet, consectetur adipiscing',
   },
 }
