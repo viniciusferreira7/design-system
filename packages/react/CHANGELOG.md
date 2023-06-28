@@ -1,5 +1,11 @@
 # @aquino-ui/react
 
+## 3.0.0
+
+### Major Changes
+
+- create the toast component
+
 ## 2.0.0
 
 ### Major Changes
